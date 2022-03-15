@@ -4,4 +4,5 @@ public interface locatorType {
 	String xpath="xpath";
 	String css="css";
 	String id="id";
+	String tagName="tagName";
 }
