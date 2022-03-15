@@ -19,6 +19,6 @@ public class Travel {
 		click("css","button._2KpZ6l._2doB4z");
 		enterText("css","input[title^='Search']","Kids");
 		click("css","button.L0Z3Pu");
-
+		System.out.println("Updated");
 	}
 }
